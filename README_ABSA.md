@@ -46,26 +46,12 @@ We fine-tuned **BERT, BART, and RoBERTa** on the preprocessed dataset and evalua
 | **BART** | 72.54%             |
 | **RoBERTa** | 74.92%          |
 
-## 6. Training and Validation Loss Plots
-(TODO: Add loss plots here)
+## 6. Training and Validation Loss Plot
+![download](https://github.com/user-attachments/assets/56d11f33-cb88-496d-9525-8c0d57e5f948)
+![bart](https://github.com/user-attachments/assets/e4ed8cf3-5bd8-45d1-8bdd-9668c0e1af00)
+![roberta](https://github.com/user-attachments/assets/37150465-04d6-4613-b911-3b4cc9bacc90)
 
-## 7. How to Run the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ABSA-Implementation.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ABSA-Implementation
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the training script:
-   ```bash
-   python train_absa.py
-   ```
+
 
 ## 8. Acknowledgments
 - **GloVe, fastText, BERT, BART, and RoBERTa embeddings**.
